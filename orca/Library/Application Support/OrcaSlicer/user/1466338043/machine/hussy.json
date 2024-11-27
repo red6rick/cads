@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "machine_start_gcode": " PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "name": "hussy",
+    "print_host": "10.0.1.159",
+    "printable_height": "280",
+    "printer_settings_id": "hussy",
+    "support_multi_bed_types": "1",
+    "version": "1.9.0.1"
+}

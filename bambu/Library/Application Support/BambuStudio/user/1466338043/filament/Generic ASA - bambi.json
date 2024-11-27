@@ -1,0 +1,27 @@
+{
+    "filament_settings_id": [
+        "Generic ASA - bambi"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "105"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "105"
+    ],
+    "inherits": "Generic ASA",
+    "name": "Generic ASA - bambi",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "textured_plate_temp": [
+        "105"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "105"
+    ],
+    "version": "1.9.0.15"
+}

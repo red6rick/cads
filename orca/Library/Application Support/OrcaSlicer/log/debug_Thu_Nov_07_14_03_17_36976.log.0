@@ -1,0 +1,28 @@
+[warning]	2024-11-07 14:03:17.722176[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-07 14:03:17.722661[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-07 14:03:17.722840[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-07 14:03:18.541307[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-07 14:03:18.888859[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:19.014209[Thread 0x00000001716bb000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-07 14:03:19.119577[Thread 0x0000000170a97000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-07 14:03:19.182925[Thread 0x0000000171ed3000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-07 14:03:19.289666[Thread 0x00000001712af000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-07 14:03:19.324276[Thread 0x0000000170ea3000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-11-07 14:03:19.362323[Thread 0x00000001722df000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-11-07 14:03:19.363135[Thread 0x0000000170ea3000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-11-07 14:03:19.420566[Thread 0x00000001722df000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-11-07 14:03:19.439511[Thread 0x0000000170ea3000]:Unable to open the file/Volumes/projects/git/jennifer/clock/test.step
+[error]	2024-11-07 14:03:19.439634[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-07 14:03:19.449482[Thread 0x0000000171ac7000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-07 14:03:19.500763[Thread 0x0000000171ed3000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-07 14:03:19.526636[Thread 0x0000000170a97000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-07 14:03:19.535392[Thread 0x00000001712af000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-07 14:03:20.557266[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:21.428805[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:21.439431[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:21.481472[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:21.481923[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:03:22.016600[Thread 0x00000001efd63240]:connect_server error: network_agent=0x600003184010, ret=-2
+[warning]	2024-11-07 14:03:22.456180[Thread 0x000000040ee93000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-11-07 14:04:11.209898[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:08:28.248949[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles

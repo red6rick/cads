@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "hussy asa"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ASA",
+    "is_custom_defined": "0",
+    "name": "hussy asa",
+    "version": "2.1.1.0"
+}

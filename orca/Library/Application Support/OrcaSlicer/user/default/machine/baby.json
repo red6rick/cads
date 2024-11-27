@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Voron 0.1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "baby",
+    "print_host": "10.0.1.155",
+    "printer_settings_id": "baby",
+    "version": "2.1.0.0"
+}

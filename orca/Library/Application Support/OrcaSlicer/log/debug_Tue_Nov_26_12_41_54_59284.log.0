@@ -1,0 +1,27 @@
+[warning]	2024-11-26 12:41:54.980069[Thread 0x00000001ef1b7ac0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-26 12:41:54.980195[Thread 0x00000001ef1b7ac0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-26 12:41:54.980237[Thread 0x00000001ef1b7ac0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-26 12:41:55.590589[Thread 0x00000001ef1b7ac0]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-26 12:41:55.827103[Thread 0x000000016cbcb000]:Unable to open the file/Users/rcvn/Downloads/61065(2).3mf
+[error]	2024-11-26 12:41:56.211398[Thread 0x000000016d7ef000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-26 12:41:56.240334[Thread 0x000000016dbfb000]:Unable to open the file/Volumes/projects/git/chas/sign 3-hextest.step
+[error]	2024-11-26 12:41:56.282963[Thread 0x000000016e81f000]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-26 12:41:56.443794[Thread 0x000000016d3e3000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-26 12:41:56.575371[Thread 0x00000001ef1b7ac0]:Unable to open the file/Volumes/projects/git/shop/radius jig/2mm radius.step
+[error]	2024-11-26 12:41:56.597943[Thread 0x000000016cfd7000]:Unable to open the file/Volumes/projects/git/m4mini/fan shroud-Body002.step
+[error]	2024-11-26 12:41:56.613019[Thread 0x000000016e007000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-26 12:41:56.813718[Thread 0x000000016dbfb000]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[error]	2024-11-26 12:41:56.813770[Thread 0x000000016d7ef000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-26 12:41:56.850431[Thread 0x000000016ec2b000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-26 12:41:56.850429[Thread 0x000000016e413000]:Unable to open the file/Volumes/projects/git/house/towel hook/the-greatest-towel-hooks-v2-model_files/towel-hooks-v2-1x.stl
+[error]	2024-11-26 12:41:56.850452[Thread 0x000000016cbcb000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-26 12:41:56.872245[Thread 0x000000016d3e3000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-26 12:41:56.922284[Thread 0x00000001ef1b7ac0]:Unable to open the file/Volumes/projects/git/shop/other peoples/allen-screwdriver-model_files/Version 2 (sort by allen key sizes)/Allenkey_2_to_6_clip.stl
+[error]	2024-11-26 12:41:58.010338[Thread 0x00000001ef1b7ac0]:connect_server error: network_agent=0x600000355bd0, ret=-2
+[warning]	2024-11-26 12:41:58.389050[Thread 0x000000016ffd7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-26 12:42:51.761300[Thread 0x00000001ef1b7ac0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:44:35.363020[Thread 0x00000001ef1b7ac0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:44:35.538294[Thread 0x00000001ef1b7ac0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:44:35.545570[Thread 0x00000001ef1b7ac0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:44:35.552588[Thread 0x00000001ef1b7ac0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 12:44:35.850038[Thread 0x00000001ef1b7ac0]:tree_sel_change_delayedcan not find page with current selection 

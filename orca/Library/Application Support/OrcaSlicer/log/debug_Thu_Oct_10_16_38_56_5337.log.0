@@ -1,0 +1,31 @@
+[warning]	2024-10-10 16:38:57.330529[Thread 0x00000001f3387240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-10 16:38:57.330715[Thread 0x00000001f3387240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-10 16:38:57.330773[Thread 0x00000001f3387240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-10 16:38:58.219620[Thread 0x00000001f3387240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-10-10 16:38:58.598414[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:38:58.757084[Thread 0x000000017207f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-10-10 16:38:58.762670[Thread 0x000000017104f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-10-10 16:38:58.833396[Thread 0x0000000170c43000]:Unable to open the file/Volumes/projects/git/jennifer/clock/test.step
+[error]	2024-10-10 16:38:58.833360[Thread 0x000000017104f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-10-10 16:38:58.835346[Thread 0x0000000170c43000]:Unable to open the file/Users/rcvn/Downloads/First_Layer_Patch-0.25mm.stl
+[error]	2024-10-10 16:38:58.859670[Thread 0x0000000171867000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-10-10 16:38:58.903210[Thread 0x0000000170c43000]:Unable to open the file/Volumes/projects/git/jennifer/numbers-one.stl
+[error]	2024-10-10 16:38:58.938115[Thread 0x0000000171c73000]:Unable to open the file/Volumes/projects/git/rv/bike rack/one inch.step
+[error]	2024-10-10 16:38:59.130816[Thread 0x00000001f3387240]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-10-10 16:38:59.431782[Thread 0x0000000170c43000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-10-10 16:38:59.431827[Thread 0x000000017207f000]:Unable to open the file/Volumes/projects/git/rv/picnic-table-clips/picnic table clip.step
+[error]	2024-10-10 16:38:59.474814[Thread 0x0000000170837000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-10-10 16:38:59.480170[Thread 0x0000000171c73000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-10-10 16:38:59.480166[Thread 0x000000017104f000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-10-10 16:38:59.543672[Thread 0x0000000171867000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-10-10 16:39:01.240048[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:39:01.267044[Thread 0x00000001f3387240]:connect_server error: network_agent=0x600003a07fd0, ret=-2
+[warning]	2024-10-10 16:39:01.781042[Thread 0x000000044adcf000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-10-10 16:39:30.608198[Thread 0x00000001f3387240]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-10-10 16:56:39.759306[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:58:11.533955[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:58:49.942889[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:58:50.454701[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-10 16:58:51.052846[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-10 21:32:15.775561[Thread 0x00000001f3387240]:09:32:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-10-10 21:32:40.439962[Thread 0x00000001f3387240]:calc_exclude_triangles:Unable to create exclude triangles

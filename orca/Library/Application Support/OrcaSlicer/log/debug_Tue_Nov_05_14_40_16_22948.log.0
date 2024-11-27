@@ -1,0 +1,36 @@
+[warning]	2024-11-05 14:40:16.767030[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-05 14:40:16.767237[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-05 14:40:16.767307[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-05 14:40:17.617689[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-05 14:40:18.180272[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-05 14:40:18.210459[Thread 0x000000016dcbf000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-05 14:40:18.220565[Thread 0x000000016d8b3000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-11-05 14:40:18.221678[Thread 0x000000016dcbf000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-11-05 14:40:18.227393[Thread 0x000000016d8b3000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-11-05 14:40:18.228457[Thread 0x000000016dcbf000]:Unable to open the file/Volumes/projects/git/jennifer/clock/test.step
+[error]	2024-11-05 14:40:18.515927[Thread 0x000000016d09b000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-05 14:40:18.584085[Thread 0x000000016e0cb000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-11-05 14:40:18.584101[Thread 0x000000016e4d7000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-05 14:40:18.782195[Thread 0x000000016d8b3000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-05 14:40:18.797715[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-05 14:40:18.823609[Thread 0x000000016cc8f000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-05 14:40:18.839473[Thread 0x000000016d4a7000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-05 14:40:18.839921[Thread 0x000000016dcbf000]:Unable to open the file/Volumes/projects/git/rv/picnic-table-clips/picnic table clip.step
+[error]	2024-11-05 14:40:18.922601[Thread 0x000000016d8b3000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-05 14:40:18.923415[Thread 0x000000016d09b000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-05 14:40:20.328819[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-05 14:40:20.358967[Thread 0x00000001efd63240]:connect_server error: network_agent=0x600002e5c970, ret=-2
+[warning]	2024-11-05 14:40:20.761295[Thread 0x0000000407f83000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[warning]	2024-11-05 14:41:24.193934[Thread 0x000000016e0cb000]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[error]	2024-11-05 14:44:51.989794[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-05 14:44:52.470669[Thread 0x0000000400087000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10004 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2024-11-05 14:45:12.533354[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-05 14:45:13.657400[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-05 14:45:16.372503[Thread 0x000000040dc0b000]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2024-11-05 14:45:39.750159[Thread 0x000000016dcbf000]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[warning]	2024-11-05 14:46:16.409347[Thread 0x000000016d09b000]:Detected Voronoi edge intersecting input segment, input polygons will be rotated back and forth.
+[error]	2024-11-05 15:30:56.546489[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-05 15:31:03.811462[Thread 0x000000016d8b3000]:Reversing even wall line causes it to be printed CCW instead of CW!
+[error]	2024-11-05 16:20:19.658834[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles

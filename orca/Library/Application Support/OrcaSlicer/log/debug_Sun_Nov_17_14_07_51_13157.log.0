@@ -1,0 +1,26 @@
+[warning]	2024-11-17 14:07:52.247559[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-17 14:07:52.247847[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-17 14:07:52.247911[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-17 14:07:52.551163[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-17 14:07:52.880911[Thread 0x0000000171a13000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-17 14:07:52.892743[Thread 0x00000001705d7000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-17 14:07:52.893551[Thread 0x00000001701cb000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-17 14:07:52.896608[Thread 0x00000001709e3000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-17 14:07:52.901698[Thread 0x0000000171607000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-17 14:07:52.902264[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/shop/other peoples/allen-screwdriver-model_files/Version 2 (sort by allen key sizes)/Allenkey_2_to_6_clip.stl
+[error]	2024-11-17 14:07:52.905660[Thread 0x0000000171a13000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-11-17 14:07:52.905990[Thread 0x00000001701cb000]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[error]	2024-11-17 14:07:52.906346[Thread 0x0000000171607000]:Unable to open the file/Volumes/projects/git/chas/sign 3-hextest.step
+[error]	2024-11-17 14:07:52.907405[Thread 0x00000001711fb000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-17 14:07:52.907750[Thread 0x00000001705d7000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-17 14:07:52.908451[Thread 0x0000000170def000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-17 14:07:52.909253[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-17 14:07:54.734165[Thread 0x00000001725c7000]:[install_plugin]: 1379, got 3 files
+[warning]	2024-11-17 14:07:54.960781[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-17 14:07:54.960877[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-17 14:07:54.960944[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2024-11-17 14:07:55.229030[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-17 14:07:55.229191[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-17 14:07:55.229329[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-17 14:08:00.924790[Thread 0x00000001efd63240]:connect_server error: network_agent=0x60000290c710, ret=-2
+[warning]	2024-11-17 14:08:01.286932[Thread 0x000000016efe7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download

@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "hatchbox abs"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "is_custom_defined": "0",
+    "name": "hatchbox abs",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "1.9.0.11"
+}

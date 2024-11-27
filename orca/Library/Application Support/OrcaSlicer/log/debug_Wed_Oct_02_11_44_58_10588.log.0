@@ -1,0 +1,59 @@
+[warning]	2024-10-02 11:44:58.698318[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-02 11:44:58.698527[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-02 11:44:58.698605[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-02 11:44:59.372884[Thread 0x00000001fc80f240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-10-02 11:44:59.747260[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-02 11:44:59.793876[Thread 0x0000000170307000]:Unable to open the file/Volumes/projects/git/jennifer/numbers-one.stl
+[error]	2024-10-02 11:44:59.822925[Thread 0x000000016eecb000]:Unable to open the file/Volumes/projects/git/jennifer/clock/test.step
+[error]	2024-10-02 11:45:00.270439[Thread 0x000000016f6e3000]:Unable to open the file/Volumes/projects/git/rv/bike rack/one inch.step
+[error]	2024-10-02 11:45:00.272927[Thread 0x000000016f6e3000]:Unable to open the file/Users/rcvn/Downloads/First_Layer_Patch-0.25mm.stl
+[error]	2024-10-02 11:45:00.354360[Thread 0x000000016eecb000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-10-02 11:45:00.383793[Thread 0x000000016eecb000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-10-02 11:45:00.433849[Thread 0x000000016eecb000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-10-02 11:45:00.502989[Thread 0x000000016eecb000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-10-02 11:45:00.624952[Thread 0x0000000170713000]:Unable to open the file/Volumes/projects/git/rv/T10-Socket-Mount/t10 socket mount.step
+[error]	2024-10-02 11:45:00.628526[Thread 0x000000016faef000]:Unable to open the file/Volumes/projects/git/rv/picnic-table-clips/picnic table clip.step
+[error]	2024-10-02 11:45:00.635930[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/shop/cnc-bench-dogs/dog drilling guide.step
+[error]	2024-10-02 11:45:00.691167[Thread 0x000000016f6e3000]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-02 11:45:00.693360[Thread 0x000000016fefb000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-10-02 11:45:00.694987[Thread 0x000000016f2d7000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-10-02 11:45:02.276033[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-02 11:45:02.304440[Thread 0x00000001fc80f240]:connect_server error: network_agent=0x600000f796d0, ret=-2
+[warning]	2024-10-02 11:45:02.942720[Thread 0x000000017761f000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-10-02 11:45:18.391837[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-02 11:48:53.645635[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-02 12:53:00.672306[Thread 0x00000001fc80f240]:12:53:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 12:53:00.674911[Thread 0x00000001fc80f240]:12:53:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-10-02 14:47:35.672321[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[warning]	2024-10-02 15:57:56.315598[Thread 0x00000001fc80f240]:03:57:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 15:57:56.318305[Thread 0x00000001fc80f240]:03:57:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 15:58:00.243006[Thread 0x00000001fc80f240]:03:58:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 15:58:01.099118[Thread 0x00000001fc80f240]:03:58:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 15:58:01.406801[Thread 0x00000001fc80f240]:03:58:01 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 16:02:56.235268[Thread 0x00000001fc80f240]:04:02:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 16:02:56.237334[Thread 0x00000001fc80f240]:04:02:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 16:02:56.239157[Thread 0x00000001fc80f240]:04:02:56 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 18:29:57.659661[Thread 0x00000001fc80f240]:06:29:57 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-02 20:42:29.726060[Thread 0x00000001fc80f240]:08:42:29 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 08:31:08.787337[Thread 0x00000001fc80f240]:08:31:08 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 08:31:08.788656[Thread 0x00000001fc80f240]:08:31:08 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 08:31:08.788884[Thread 0x00000001fc80f240]:08:31:08 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 08:31:13.306552[Thread 0x00000001fc80f240]:08:31:13 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 09:29:26.109562[Thread 0x00000001fc80f240]:09:29:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 09:29:26.110776[Thread 0x00000001fc80f240]:09:29:26 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 09:29:29.663368[Thread 0x00000001fc80f240]:09:29:29 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 09:29:30.479436[Thread 0x00000001fc80f240]:09:29:30 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 11:15:16.254271[Thread 0x00000001fc80f240]:11:15:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 11:15:16.256327[Thread 0x00000001fc80f240]:11:15:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 11:15:16.256926[Thread 0x00000001fc80f240]:11:15:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 11:15:19.919285[Thread 0x00000001fc80f240]:11:15:19 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 11:15:20.832223[Thread 0x00000001fc80f240]:11:15:20 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 15:15:45.082342[Thread 0x00000001fc80f240]:03:15:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 15:15:45.084868[Thread 0x00000001fc80f240]:03:15:45 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 15:15:49.557821[Thread 0x00000001fc80f240]:03:15:49 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 16:41:15.988873[Thread 0x00000001fc80f240]:04:41:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 16:41:15.990672[Thread 0x00000001fc80f240]:04:41:15 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 16:41:16.408941[Thread 0x00000001fc80f240]:04:41:16 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 16:41:21.048557[Thread 0x00000001fc80f240]:04:41:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-03 18:03:40.531682[Thread 0x00000001fc80f240]:06:03:40 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-10-03 18:35:24.251999[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,128 @@
+[warning]	2024-11-08 13:58:53.339631[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-08 13:58:53.340923[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-08 13:58:53.341004[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-08 13:58:54.259793[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-08 13:58:54.721757[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 13:58:54.751554[Thread 0x000000016f51f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-11-08 13:58:54.757121[Thread 0x000000016f51f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-11-08 13:58:54.787176[Thread 0x000000016f51f000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-11-08 13:58:54.882174[Thread 0x000000017054f000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-08 13:58:55.029745[Thread 0x0000000170143000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-08 13:58:55.073242[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-08 13:58:55.120454[Thread 0x000000016f51f000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-08 13:58:55.129238[Thread 0x000000016fd37000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-08 13:58:55.138024[Thread 0x000000017054f000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-08 13:58:55.138897[Thread 0x000000016f92b000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-08 13:58:55.186355[Thread 0x000000016ed07000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-11-08 13:58:55.358832[Thread 0x0000000170143000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-08 13:58:55.359405[Thread 0x000000016f113000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-08 13:58:56.774850[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 13:58:56.811090[Thread 0x00000001efd63240]:connect_server error: network_agent=0x6000037e2a20, ret=-2
+[warning]	2024-11-08 13:58:57.237662[Thread 0x000000017f4b7000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-11-08 13:59:20.694908[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[warning]	2024-11-09 08:58:44.326576[Thread 0x00000001efd63240]:08:58:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-09 08:58:44.585398[Thread 0x00000001efd63240]:08:58:44 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-09 09:00:23.365363[Thread 0x00000001efd63240]:09:00:23 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-09 09:00:24.706303[Thread 0x00000001efd63240]:09:00:24 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-09 18:30:59.647635[Thread 0x00000001efd63240]:06:30:59 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-09 18:31:00.705598[Thread 0x00000001efd63240]:06:31:00 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-11-09 19:13:34.365868[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-09 20:12:51.723565[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 00:18:28.673010[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20037","version":1}}, qos=0
+[error]	2024-11-10 00:18:28.677867[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20038"}}, qos=1
+[error]	2024-11-10 00:18:28.678449[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20039"}}, qos=0
+[error]	2024-11-10 00:18:39.387490[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20040","version":1}}, qos=0
+[error]	2024-11-10 00:18:39.387592[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20041"}}, qos=1
+[error]	2024-11-10 00:18:39.387631[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20042"}}, qos=0
+[error]	2024-11-10 00:38:17.178556[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20043","version":1}}, qos=0
+[error]	2024-11-10 00:38:17.178634[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20044"}}, qos=1
+[error]	2024-11-10 00:38:17.178654[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20045"}}, qos=0
+[error]	2024-11-10 00:38:27.146429[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20046","version":1}}, qos=0
+[error]	2024-11-10 00:38:27.146474[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20047"}}, qos=1
+[error]	2024-11-10 00:38:27.146499[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20048"}}, qos=0
+[error]	2024-11-10 01:53:53.451389[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20049","version":1}}, qos=0
+[error]	2024-11-10 01:53:53.453022[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20050"}}, qos=1
+[error]	2024-11-10 01:53:53.453125[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20051"}}, qos=0
+[error]	2024-11-10 01:54:03.843224[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20052","version":1}}, qos=0
+[error]	2024-11-10 01:54:03.843319[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20053"}}, qos=1
+[error]	2024-11-10 01:54:03.843350[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20054"}}, qos=0
+[error]	2024-11-10 02:59:52.117620[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20055","version":1}}, qos=0
+[error]	2024-11-10 02:59:52.117753[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20056"}}, qos=1
+[error]	2024-11-10 02:59:52.117786[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20057"}}, qos=0
+[error]	2024-11-10 03:00:02.129031[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20058","version":1}}, qos=0
+[error]	2024-11-10 03:00:02.129417[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20059"}}, qos=1
+[error]	2024-11-10 03:00:02.129551[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20060"}}, qos=0
+[error]	2024-11-10 03:21:34.358656[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20061","version":1}}, qos=0
+[error]	2024-11-10 03:21:34.358725[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20062"}}, qos=1
+[error]	2024-11-10 03:21:34.358751[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20063"}}, qos=0
+[error]	2024-11-10 03:21:46.610684[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20064","version":1}}, qos=0
+[error]	2024-11-10 03:21:46.610734[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20065"}}, qos=1
+[error]	2024-11-10 03:21:46.610753[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20066"}}, qos=0
+[error]	2024-11-10 03:40:34.218766[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20067","version":1}}, qos=0
+[error]	2024-11-10 03:40:34.218839[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20068"}}, qos=1
+[error]	2024-11-10 03:40:34.218869[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20069"}}, qos=0
+[error]	2024-11-10 03:40:44.904047[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20070","version":1}}, qos=0
+[error]	2024-11-10 03:40:44.904093[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20071"}}, qos=1
+[error]	2024-11-10 03:40:44.904113[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20072"}}, qos=0
+[error]	2024-11-10 03:57:29.585532[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20073","version":1}}, qos=0
+[error]	2024-11-10 03:57:29.585632[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20074"}}, qos=1
+[error]	2024-11-10 03:57:29.585660[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20075"}}, qos=0
+[error]	2024-11-10 03:57:39.127861[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20076","version":1}}, qos=0
+[error]	2024-11-10 03:57:39.127907[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20077"}}, qos=1
+[error]	2024-11-10 03:57:39.127930[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20078"}}, qos=0
+[error]	2024-11-10 04:12:03.756212[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20079","version":1}}, qos=0
+[error]	2024-11-10 04:12:03.756298[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20080"}}, qos=1
+[error]	2024-11-10 04:12:03.756345[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20081"}}, qos=0
+[error]	2024-11-10 04:12:15.387915[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20082","version":1}}, qos=0
+[error]	2024-11-10 04:12:15.387974[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20083"}}, qos=1
+[error]	2024-11-10 04:12:15.388287[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20084"}}, qos=0
+[error]	2024-11-10 05:23:01.798010[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20085","version":1}}, qos=0
+[error]	2024-11-10 05:23:01.798307[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20086"}}, qos=1
+[error]	2024-11-10 05:23:01.798343[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20087"}}, qos=0
+[error]	2024-11-10 05:23:12.980654[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20088","version":1}}, qos=0
+[error]	2024-11-10 05:23:12.981015[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20089"}}, qos=1
+[error]	2024-11-10 05:23:12.981054[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20090"}}, qos=0
+[error]	2024-11-10 06:28:08.985359[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20091","version":1}}, qos=0
+[error]	2024-11-10 06:28:08.985445[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20092"}}, qos=1
+[error]	2024-11-10 06:28:08.985482[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20093"}}, qos=0
+[error]	2024-11-10 06:28:19.912709[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20094","version":1}}, qos=0
+[error]	2024-11-10 06:28:19.912826[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20095"}}, qos=1
+[error]	2024-11-10 06:28:19.912870[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20096"}}, qos=0
+[error]	2024-11-10 06:35:34.527862[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20097","version":1}}, qos=0
+[error]	2024-11-10 06:35:34.528142[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20098"}}, qos=1
+[error]	2024-11-10 06:35:34.528198[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20099"}}, qos=0
+[error]	2024-11-10 06:35:46.090562[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20100","version":1}}, qos=0
+[error]	2024-11-10 06:35:46.090612[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20101"}}, qos=1
+[error]	2024-11-10 06:35:46.090635[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20102"}}, qos=0
+[error]	2024-11-10 06:56:45.239470[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20103","version":1}}, qos=0
+[error]	2024-11-10 06:56:45.239542[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20104"}}, qos=1
+[error]	2024-11-10 06:56:45.239565[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20105"}}, qos=0
+[error]	2024-11-10 06:56:56.328355[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20106","version":1}}, qos=0
+[error]	2024-11-10 06:56:56.328443[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20107"}}, qos=1
+[error]	2024-11-10 06:56:56.328492[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20108"}}, qos=0
+[warning]	2024-11-10 08:45:16.077277[Thread 0x00000001efd63240]:08:45:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-10 08:45:16.080061[Thread 0x00000001efd63240]:08:45:16 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-11-10 08:48:11.328967[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 08:48:28.325276[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 08:48:50.295700[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 08:48:54.298166[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 08:50:09.331706[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-10 08:50:09.371259[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 09:06:36.835669[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 09:07:07.816721[Thread 0x00000001706f3000]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10000 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2024-11-10 09:07:27.822710[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 09:08:08.616055[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-10 09:08:08.666052[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 09:08:08.673630[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 10:12:41.605604[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20109","version":1}}, qos=0
+[error]	2024-11-10 10:12:41.606832[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20110"}}, qos=1
+[error]	2024-11-10 10:12:41.607224[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20111"}}, qos=0
+[error]	2024-11-10 10:12:42.446766[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20112","version":1}}, qos=0
+[error]	2024-11-10 10:12:42.446784[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"info":{"command":"get_version","sequence_id":"20113"}}, qos=1
+[error]	2024-11-10 10:12:42.446792[Thread 0x00000001efd63240]:send_message error: network_agent=0x6000037e2a20, ret=-2, dev_id=00M09C452703763, json_str={"system":{"command":"get_access_code","sequence_id":"20114"}}, qos=0
+[error]	2024-11-10 10:38:23.542901[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-10 10:38:23.581063[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 10:38:23.591131[Thread 0x00000001efd63240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-10 21:54:30.627874[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles

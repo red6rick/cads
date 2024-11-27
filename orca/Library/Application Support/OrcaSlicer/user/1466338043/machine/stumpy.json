@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "Voron Trident 300 0.4 nozzle",
+    "machine_start_gcode": " PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "name": "stumpy",
+    "print_host": "10.0.1.126",
+    "printable_height": "110",
+    "printer_settings_id": "stumpy",
+    "version": "1.6.5.2"
+}

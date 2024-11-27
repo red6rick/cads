@@ -1,0 +1,44 @@
+[warning]	2024-10-06 10:58:56.248982[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-06 10:58:56.249211[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-06 10:58:56.249284[Thread 0x00000001fc80f240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-06 10:58:57.042243[Thread 0x00000001fc80f240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-10-06 10:58:57.415748[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-06 10:58:57.420827[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-10-06 10:58:57.420839[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/top surface test.3mf
+[error]	2024-10-06 10:58:57.420848[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.3mf
+[error]	2024-10-06 10:58:57.420848[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-10-06 10:58:57.420848[Thread 0x000000016d133000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-10-06 10:58:57.420854[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-10-06 10:58:57.420852[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/body.step
+[error]	2024-10-06 10:58:57.420858[Thread 0x00000001fc80f240]:Unable to open the file/Volumes/projects/git/jennifer/original clock/split body clock.3mf
+[error]	2024-10-06 10:58:57.420860[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/test.step
+[error]	2024-10-06 10:58:57.420860[Thread 0x000000016d133000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-10-06 10:58:57.420864[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.3mf
+[error]	2024-10-06 10:58:57.420865[Thread 0x000000016d133000]:Unable to open the file/Volumes/projects/git/jennifer/numbers-one.stl
+[error]	2024-10-06 10:58:57.420867[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/jennifer/clock/magsafe test.step
+[error]	2024-10-06 10:58:57.420867[Thread 0x000000016d53f000]:Unable to open the file/Volumes/projects/git/rv/picnic-table-clips/picnic table clip.step
+[error]	2024-10-06 10:58:57.420871[Thread 0x000000016cd27000]:Unable to open the file/Volumes/projects/git/rv/bike rack/one inch.step
+[error]	2024-10-06 10:58:57.420870[Thread 0x000000016d133000]:Unable to open the file/Volumes/projects/git/printers/bambu stuff/mouse/Customisable+Mouse+Top+Shell+Compatible+with+the+Bambu+Labs+Wireless+Mouse+Components+Kit-002/Standard Mouse Design.3mf
+[error]	2024-10-06 10:58:57.420890[Thread 0x000000016d94b000]:Unable to open the file/Volumes/projects/git/jennifer/clock/phone and watch charging stand.3mf
+[error]	2024-10-06 10:58:57.421355[Thread 0x00000001fc80f240]:Unable to open the file/Users/rcvn/Downloads/First_Layer_Patch-0.25mm.stl
+[error]	2024-10-06 10:58:59.126083[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-06 10:58:59.155912[Thread 0x00000001fc80f240]:connect_server error: network_agent=0x60000208b200, ret=-2
+[warning]	2024-10-06 10:59:00.007552[Thread 0x000000017f33b000]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-10-06 11:00:11.384228[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-06 11:00:24.136984[Thread 0x00000001fc80f240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-06 11:00:46.122293[Thread 0x00000001fc80f240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-06 11:00:50.663322[Thread 0x00000001fc80f240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-10-06 13:59:07.243395[Thread 0x00000001fc80f240]:01:59:06 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 15:16:02.550891[Thread 0x00000001fc80f240]:03:16:02 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 15:16:03.760512[Thread 0x00000001fc80f240]:03:16:03 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 15:16:06.661074[Thread 0x00000001fc80f240]:03:16:06 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 16:42:21.111203[Thread 0x00000001fc80f240]:04:42:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 16:42:21.112519[Thread 0x00000001fc80f240]:04:42:21 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 16:42:24.684150[Thread 0x00000001fc80f240]:04:42:24 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 20:54:08.397052[Thread 0x00000001fc80f240]:08:54:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 20:54:08.398856[Thread 0x00000001fc80f240]:08:54:08 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 20:54:12.092879[Thread 0x00000001fc80f240]:08:54:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 20:54:12.763787[Thread 0x00000001fc80f240]:08:54:12 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-06 20:54:18.149010[Thread 0x00000001fc80f240]:08:54:18 PM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-10-06 20:54:50.549230[Thread 0x00000001fc80f240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-06 21:01:02.436409[Thread 0x00000001fc80f240]:calc_exclude_triangles:Unable to create exclude triangles

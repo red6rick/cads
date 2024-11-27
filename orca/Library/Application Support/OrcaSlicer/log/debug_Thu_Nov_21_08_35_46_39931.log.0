@@ -1,0 +1,28 @@
+[warning]	2024-11-21 08:35:47.484978[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-21 08:35:47.485178[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-21 08:35:47.485238[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-21 08:35:48.435163[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-21 08:35:48.934851[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-21 08:35:48.961609[Thread 0x000000016d247000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-21 08:35:49.145144[Thread 0x000000016d653000]:Unable to open the file/Volumes/projects/git/chas/sign 3-hextest.step
+[error]	2024-11-21 08:35:49.507810[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/m4mini/fan shroud-Body002.step
+[error]	2024-11-21 08:35:49.701670[Thread 0x000000016da5f000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-21 08:35:49.762690[Thread 0x000000016d653000]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[error]	2024-11-21 08:35:49.766811[Thread 0x000000016c623000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-21 08:35:49.777512[Thread 0x000000016de6b000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-21 08:35:49.808664[Thread 0x000000016ce3b000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-21 08:35:49.903087[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/shop/other peoples/allen-screwdriver-model_files/Version 2 (sort by allen key sizes)/Allenkey_2_to_6_clip.stl
+[error]	2024-11-21 08:35:49.913612[Thread 0x000000016da5f000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-21 08:35:49.936102[Thread 0x000000016d653000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-21 08:35:49.946894[Thread 0x000000016ca2f000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-21 08:35:49.947298[Thread 0x000000016c623000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-21 08:35:51.481068[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-21 08:35:51.504903[Thread 0x00000001efd63240]:connect_server error: network_agent=0x600000f42bb0, ret=-2
+[warning]	2024-11-21 08:35:51.934759[Thread 0x0000000409a43000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-21 08:58:35.622222[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/house/towel hook/the-greatest-towel-hooks-v2-model_files/towel-hooks-v2-1x.stl
+[warning]	2024-11-21 08:58:48.846833[Thread 0x000000016be43000]:Arrange full params: {"min_obj_distance":60000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":100.000000,
+[warning]	2024-11-22 08:55:27.440298[Thread 0x00000001efd63240]:08:55:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-22 08:55:27.442954[Thread 0x00000001efd63240]:08:55:27 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-23 09:17:45.670944[Thread 0x00000001efd63240]:09:17:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-23 09:17:45.673516[Thread 0x00000001efd63240]:09:17:45 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-11-23 17:12:11.052806[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles

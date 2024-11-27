@@ -1,0 +1,16 @@
+{
+    "bottom_shell_layers": "2",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "initial_layer_line_width": "120%",
+    "initial_layer_print_height": "0.28",
+    "is_custom_defined": "0",
+    "name": "0.20 40% hussy lightweight test",
+    "print_settings_id": "0.20 40% hussy lightweight test",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "grid",
+    "top_shell_layers": "2",
+    "version": "1.9.0.2",
+    "wall_loops": "2"
+}

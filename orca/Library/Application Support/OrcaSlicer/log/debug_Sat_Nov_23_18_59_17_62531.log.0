@@ -1,0 +1,27 @@
+[warning]	2024-11-23 18:59:18.134052[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-23 18:59:18.134377[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-23 18:59:18.134440[Thread 0x00000001efd63240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-23 18:59:18.664517[Thread 0x00000001efd63240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-23 18:59:19.028834[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 18:59:19.037027[Thread 0x000000016e92f000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-23 18:59:19.048544[Thread 0x000000016ed3b000]:Unable to open the file/Volumes/projects/git/chas/sign 3-hextest.step
+[error]	2024-11-23 18:59:19.052565[Thread 0x00000001efd63240]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-23 18:59:19.052786[Thread 0x000000016e117000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-23 18:59:19.052903[Thread 0x000000016f147000]:Unable to open the file/Volumes/projects/git/m4mini/fan shroud-Body002.step
+[error]	2024-11-23 18:59:19.054244[Thread 0x000000016e92f000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-23 18:59:19.059373[Thread 0x000000016ed3b000]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[error]	2024-11-23 18:59:19.059951[Thread 0x000000016f553000]:Unable to open the file/Volumes/projects/git/house/towel hook/the-greatest-towel-hooks-v2-model_files/towel-hooks-v2-1x.stl
+[error]	2024-11-23 18:59:19.066020[Thread 0x000000016e523000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-23 18:59:19.066603[Thread 0x000000016e117000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-23 18:59:19.067300[Thread 0x000000016ed3b000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-23 18:59:19.067321[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/shop/other peoples/allen-screwdriver-model_files/Version 2 (sort by allen key sizes)/Allenkey_2_to_6_clip.stl
+[error]	2024-11-23 18:59:19.067760[Thread 0x000000016f147000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-23 18:59:19.068563[Thread 0x000000016e92f000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-23 18:59:19.069380[Thread 0x000000016f95f000]:Unable to open the file/Volumes/projects/git/rv/strap buckle/robust-buckles-model_files/26mm/buckle_F26_for_FREE_end.stl
+[error]	2024-11-23 18:59:20.392023[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 18:59:20.415407[Thread 0x00000001efd63240]:connect_server error: network_agent=0x600001e188b0, ret=-2
+[warning]	2024-11-23 18:59:20.848585[Thread 0x000000016db67000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-23 19:00:13.782964[Thread 0x00000001efd63240]:Unable to open the file/Volumes/projects/git/shop/radius jig/2mm radius.step
+[warning]	2024-11-24 09:12:49.454508[Thread 0x00000001efd63240]:09:12:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-11-24 09:12:49.456268[Thread 0x00000001efd63240]:09:12:49 AM: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[error]	2024-11-24 10:31:51.360549[Thread 0x00000001efd63240]:calc_exclude_triangles:Unable to create exclude triangles

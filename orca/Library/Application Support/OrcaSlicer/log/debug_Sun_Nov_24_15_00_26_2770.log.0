@@ -1,0 +1,24 @@
+[warning]	2024-11-24 15:00:26.565611[Thread 0x0000000201033240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-24 15:00:26.565800[Thread 0x0000000201033240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-24 15:00:26.565866[Thread 0x0000000201033240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-24 15:00:27.277602[Thread 0x0000000201033240]:3dx drivers module loading error: dlopen(/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient, 0x0005): tried: '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file), '/Library/Frameworks/3DconnexionClient.framework/3DconnexionClient' (no such file)
+[error]	2024-11-24 15:00:27.624085[Thread 0x0000000201033240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-24 15:00:27.747086[Thread 0x000000016c813000]:Unable to open the file/Volumes/projects/git/rv/soda cans/c an drop 5-patches.step
+[error]	2024-11-24 15:00:27.808205[Thread 0x000000016c813000]:Unable to open the file/Volumes/projects/git/rick/clock stand 4-Body001.step
+[error]	2024-11-24 15:00:27.877598[Thread 0x000000016cc1f000]:Unable to open the file/Volumes/projects/git/chas/sign-Body.step
+[error]	2024-11-24 15:00:27.910932[Thread 0x0000000201033240]:Unable to open the file/Volumes/projects/git/shop/radius jig/2mm radius.step
+[error]	2024-11-24 15:00:27.968946[Thread 0x000000016d02b000]:Unable to open the file/Volumes/projects/git/shop/other peoples/allen-screwdriver-model_files/Version 2 (sort by allen key sizes)/Allenkey_2_to_6_clip.stl
+[error]	2024-11-24 15:00:28.002041[Thread 0x000000016dc4f000]:Unable to open the file/Volumes/projects/git/house/towel hook/the-greatest-towel-hooks-v2-model_files/towel-hooks-v2-1x.stl
+[error]	2024-11-24 15:00:28.019052[Thread 0x000000016c407000]:Unable to open the file/Volumes/projects/git/truck/cup-holder/cup and pen holder.step
+[error]	2024-11-24 15:00:28.029791[Thread 0x000000016d843000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/mb-wheel-caps 2-cap.step
+[error]	2024-11-24 15:00:28.044014[Thread 0x000000016d437000]:Unable to open the file/Volumes/projects/git/chas/sign 3-hextest.step
+[error]	2024-11-24 15:00:28.094643[Thread 0x000000016cc1f000]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-24 15:00:28.165791[Thread 0x000000016c813000]:Unable to open the file/Volumes/projects/git/jennifer/clock stand-Body.step
+[error]	2024-11-24 15:00:28.182379[Thread 0x000000016d02b000]:Unable to open the file/Volumes/projects/git/jennifer/original clock/test.step
+[error]	2024-11-24 15:00:28.253640[Thread 0x000000016c407000]:Unable to open the file/Volumes/projects/git/truck/wheel caps/test.stl
+[error]	2024-11-24 15:00:28.253640[Thread 0x000000016dc4f000]:Unable to open the file/Volumes/projects/git/m4mini/fan shroud-Body002.step
+[error]	2024-11-24 15:00:28.262703[Thread 0x000000016d843000]:Unable to open the file/Volumes/projects/git/rv/sonos mount/sonos shelf bracket.step
+[error]	2024-11-24 15:00:29.354532[Thread 0x0000000201033240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-24 15:00:29.375203[Thread 0x0000000201033240]:connect_server error: network_agent=0x60000395b4b0, ret=-2
+[warning]	2024-11-24 15:00:29.734011[Thread 0x000000016be57000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-24 15:03:13.173117[Thread 0x0000000201033240]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,9 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambi 0.20mm Standard",
+    "print_settings_id": "Bambi 0.20mm Standard",
+    "version": "1.9.0.14"
+}

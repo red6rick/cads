@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab X1 Carbon 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "bambi",
+    "printer_settings_id": "bambi",
+    "version": "1.9.0.11"
+}

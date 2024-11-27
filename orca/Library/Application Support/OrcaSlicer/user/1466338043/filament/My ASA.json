@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "My ASA"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA",
+    "is_custom_defined": "0",
+    "name": "My ASA",
+    "textured_plate_temp": [
+        "105"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "105"
+    ],
+    "version": "1.9.0.14"
+}

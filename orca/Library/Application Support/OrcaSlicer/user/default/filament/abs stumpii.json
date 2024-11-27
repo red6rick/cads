@@ -1,0 +1,25 @@
+{
+    "fan_max_speed": [
+        "10"
+    ],
+    "fan_min_speed": [
+        "100"
+    ],
+    "filament_flow_ratio": [
+        "0.8333"
+    ],
+    "filament_settings_id": [
+        "abs stumpii"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "abs stumpii",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "version": "1.9.0.2"
+}
