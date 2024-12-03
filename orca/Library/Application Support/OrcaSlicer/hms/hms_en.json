@@ -2,24 +2,8 @@
     "device_error": {
         "en": [
             {
-                "ecode": "05014038",
-                "intro": "The region settings do not match the printer; please check the printer's region settings."
-            },
-            {
-                "ecode": "12018016",
-                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
-            },
-            {
-                "ecode": "12028016",
-                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
-            },
-            {
-                "ecode": "12038016",
-                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
-            },
-            {
-                "ecode": "0300801B",
-                "intro": "Nozzle temperature problem detected. Refer to the Assistant to re-connect the hotend connector. POWER OFF the printer before this operation to avoid a short circuit."
+                "ecode": "03008008",
+                "intro": "Printing Stopped because nozzle temperature problem."
             },
             {
                 "ecode": "12018007",
@@ -46,8 +30,24 @@
                 "intro": "Your APP region is not matched with your printer; please download the APP in the corresponding region and register your account again."
             },
             {
-                "ecode": "03008008",
-                "intro": "Printing Stopped because nozzle temperature problem."
+                "ecode": "05014038",
+                "intro": "The region settings do not match the printer; please check the printer's region settings."
+            },
+            {
+                "ecode": "12018016",
+                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12028016",
+                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "12038016",
+                "intro": "The extruder is not extruding normally; please refer to the HMS. After trouble shooting. If the defects are acceptable, please click \"Retry\" button."
+            },
+            {
+                "ecode": "0300801B",
+                "intro": "Nozzle temperature problem detected. Refer to the Assistant to re-connect the hotend connector. POWER OFF the printer before this operation to avoid a short circuit."
             },
             {
                 "ecode": "0C00402A",
@@ -1098,10 +1098,138 @@
                 "intro": "Heatbed temperature malfunction."
             }
         ],
-        "ver": 202410181600
+        "ver": 202412031230
     },
     "device_hms": {
         "en": [
+            {
+                "ecode": "0500010000030004",
+                "intro": "Not enough space in MicroSD Card; please clear some space."
+            },
+            {
+                "ecode": "0300020000010006",
+                "intro": "The nozzle temperature is abnormal; the sensor may have a short circuit. Please check whether the connector is properly plugged in."
+            },
+            {
+                "ecode": "0500030000010021",
+                "intro": "Hardware incompatible: please check the laser."
+            },
+            {
+                "ecode": "0500050000030002",
+                "intro": "The device is in the engineering state; please pay attention to the information security related matters."
+            },
+            {
+                "ecode": "030091000001000C",
+                "intro": "The chamber heater 1 has been working at full load for a long time. The temperature control system may have an issue."
+            },
+            {
+                "ecode": "030001000001000D",
+                "intro": "An issue occurred when heating the heatbed previously. To continue using your printer, please refer to the wiki to troubleshoot."
+            },
+            {
+                "ecode": "0500030000010024",
+                "intro": "The current temperature is too low. In order to protect you and your printer. Printing task, moving axis and other operations is disabled. Please move the printer to an environment above 10°C."
+            },
+            {
+                "ecode": "0700700000020005",
+                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0702700000020004",
+                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0701700000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0703700000020006",
+                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0702700000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0702700000020006",
+                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0703700000020004",
+                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0703700000020005",
+                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0702700000020002",
+                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0701200000020006",
+                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
+            },
+            {
+                "ecode": "0702200000020006",
+                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
+            },
+            {
+                "ecode": "0700700000020002",
+                "intro": "Failed to feed filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0701700000020004",
+                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0701700000020002",
+                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0700700000020006",
+                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0702700000020005",
+                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0703700000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0703200000020006",
+                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
+            },
+            {
+                "ecode": "0703700000020002",
+                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0700700000020004",
+                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0701700000020005",
+                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0700700000020003",
+                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "0700200000020006",
+                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
+            },
+            {
+                "ecode": "0701700000020006",
+                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
+            },
+            {
+                "ecode": "07FF700000020003",
+                "intro": "The extruder filament is used up; please feed new filament."
+            },
             {
                 "ecode": "1203210000020001",
                 "intro": "AMS D Slot2 filament has run out; please insert a new filament."
@@ -3123,130 +3251,6 @@
                 "intro": "AMS B Slot4 is empty; please insert a new filament."
             },
             {
-                "ecode": "0500050000030002",
-                "intro": "The device is in the engineering state; please pay attention to the information security related matters."
-            },
-            {
-                "ecode": "030091000001000C",
-                "intro": "The chamber heater 1 has been working at full load for a long time. The temperature control system may have an issue."
-            },
-            {
-                "ecode": "030001000001000D",
-                "intro": "An issue occurred when heating the heatbed previously. To continue using your printer, please refer to the wiki to troubleshoot."
-            },
-            {
-                "ecode": "0500030000010024",
-                "intro": "The current temperature is too low. In order to protect you and your printer. Printing task, moving axis and other operations is disabled. Please move the printer to an environment above 10°C."
-            },
-            {
-                "ecode": "0700700000020005",
-                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0702700000020004",
-                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0701700000020003",
-                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0703700000020006",
-                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0702700000020003",
-                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0702700000020006",
-                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0703700000020004",
-                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0703700000020005",
-                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0702700000020002",
-                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0701200000020006",
-                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
-            },
-            {
-                "ecode": "0702200000020006",
-                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
-            },
-            {
-                "ecode": "0700700000020002",
-                "intro": "Failed to feed filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0701700000020004",
-                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0701700000020002",
-                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0700700000020006",
-                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0702700000020005",
-                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0703700000020003",
-                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0703200000020006",
-                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
-            },
-            {
-                "ecode": "0703700000020002",
-                "intro": "Failed to feed the filament into the toolhead. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0700700000020004",
-                "intro": "Failed to pull back the filament from the toolhead to AMS. Possible cause: filament or spool stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0701700000020005",
-                "intro": "Failed to feed the filament outside the AMS. Please clip the end of the filament flat and check to see if the spool is stuck. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0700700000020003",
-                "intro": "Failed to extrude the filament. Possible cause: extruder or nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0700200000020006",
-                "intro": "PTFE tube detached during the feeding process. Please check if the PTFE tube is connected to the AMS and extruder."
-            },
-            {
-                "ecode": "0701700000020006",
-                "intro": "Timeout purging old filament. Possible cause: filament stuck or extruder/nozzle clogged. Please refer to the Assistant for details."
-            },
-            {
-                "ecode": "0500030000010021",
-                "intro": "Hardware incompatible: please check the laser."
-            },
-            {
-                "ecode": "0500010000030004",
-                "intro": "Not enough space in MicroSD Card; please clear some space."
-            },
-            {
-                "ecode": "0300020000010006",
-                "intro": "The nozzle temperature is abnormal; the sensor may have a short circuit. Please check whether the connector is properly plugged in."
-            },
-            {
                 "ecode": "0703920000010001",
                 "intro": "AMS D The cooling fan of heater 1 is blocked, which may be due to the fan being stuck."
             },
@@ -4743,7 +4747,7 @@
                 "intro": "The nozzle temperature is abnormal; the sensor may have an open circuit."
             }
         ],
-        "ver": 202410181630
+        "ver": 202412031230
     },
-    "version": "202410181630"
+    "version": "202412031230"
 }
