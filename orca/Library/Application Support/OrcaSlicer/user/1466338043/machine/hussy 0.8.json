@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.8 nozzle",
+    "is_custom_defined": "0",
+    "name": "hussy 0.8",
+    "print_host": "10.0.1.159",
+    "printer_settings_id": "hussy 0.8",
+    "support_multi_bed_types": "1",
+    "version": "2.2.0.4"
+}
