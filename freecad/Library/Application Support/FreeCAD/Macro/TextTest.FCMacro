@@ -1,0 +1,9 @@
+import Draft
+
+ss = Draft.make_shapestring(String="another", FontFile="/Volumes/homes/rcvn/Desktop/Monaco.ttf", Size=4.0, Tracking=0.0)
+ss.Justification = u"Middle-Center"
+ss.Placement = App.Placement(App.Vector(70,0,0),App.Rotation(App.Vector(0,0,1),90))
+ss.AttachmentSupport = None
+Draft.autogroup(ss)
+
+App.activeDocument().recompute()
